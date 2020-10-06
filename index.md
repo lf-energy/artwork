@@ -24,9 +24,9 @@ permalink: /
 </div>
 </a>
 
-<a href="projects#powsysbi">
+<a href="projects#powsysbl">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/powsysbi/powsysbi-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/powsysbl/powsysbl-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
@@ -44,7 +44,7 @@ permalink: /
 
 <a href="projects#em2">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/em2/em2-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/em2/em2-abbrev-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
