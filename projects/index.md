@@ -233,6 +233,47 @@
     </tbody>
 </table>
 
+### SEAPATH
+
+<table class="logos-table">
+	<thead>
+        <tr>
+            <th></th>
+            <th>PNG</th>
+            <th>SVG</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>color</th>
+            <td><a href="../projects/seapath/seapath-color.png" download><img src="../projects/seapath/seapath-color.png" width="200"></a></td>
+            <td><a href="../projects/seapath/seapath-color.svg" download><img src="../projects/seapath/seapath-color.svg" width="200"></a></td>
+        </tr>
+        <tr>
+            <th>white transparent</th>
+            <td><a href="../projects/seapath/seapath-transparent-white.png" download><img src="../projects/seapath/seapath-transparent-white.png" width="200"></a></td>
+            <td><a href="../projects/seapath/seapath-transparent-white.svg" download><img src="../projects/seapath/seapath-transparent-white.svg" width="200"></a></td>
+        </tr>
+        <tr>
+            <th>black transparent</th>
+            <td><a href="../projects/seapath/seapath-transparent-black.png" download><img src="../projects/seapath/seapath-transparent-black.png" width="200"></a></td>
+            <td><a href="../projects/seapath/seapath-transparent-black.svg" download><img src="../projects/seapath/seapath-transparent-black.svg" width="200"></a></td>
+        </tr>
+        <tr>
+            <th>white knockout</th>
+            <td><a href="../projects/seapath/seapath-knockout-white.png" download><img src="../projects/seapath/seapath-knockout-white.png" width="200"></a></td>
+            <td><a href="../projects/seapath/seapath-knockout-white.svg" download><img src="../projects/seapath/seapath-knockout-white.svg" width="200"></a></td>
+        </tr>
+        <tr>
+            <th>black knockout</th>
+            <td><a href="../projects/seapath/seapath-knockout-black.png" download><img src="../projects/seapath/seapath-knockout-black.png" width="200"></a></td>
+            <td><a href="../projects/seapath/seapath-knockout-black.svg" download><img src="../projects/seapath/seapath-knockout-black.svg" width="200"></a></td>
+        </tr>
+        
+    </tbody>
+</table>
+
+
 
 ### CoMPAS
 

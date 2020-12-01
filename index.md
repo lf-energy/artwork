@@ -54,6 +54,13 @@ permalink: /
 </div>
 </a>
 
+<a href="projects#seapath">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/seapath/seapath-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
+
 <h3>Incubating Projects</h3>
 
 <a href="projects#compas">
