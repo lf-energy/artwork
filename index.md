@@ -72,6 +72,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/sogno">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/sogno/horizontal/color/sogno-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 
 <h3>Incubating Projects</h3>
 
