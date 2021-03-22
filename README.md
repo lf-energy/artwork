@@ -4,18 +4,20 @@ In this repo, we have artwork in standard formats for the LF Energy Foundation [
 
 With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
 
-* Early Adoption Projects
-  * [EM2](projects/em2)
+* Incubating Projects
+  * [CoMPAS](projects/compas)
   * [FledgePOWER](projects/fledgepower)
-  * [Grid eXchange Fabric](projects/grid-exchange-fabric)
   * [Hyphae](projects/hyphae)
   * [OpenEEMeter](projects/openeemeter)
   * [OpenLEADR](projects/openleadr)
+  * [SEAPATH](projects/seapath)
+* Early Adoption Projects
+  * [EM2](projects/em2)
+  * [Grid eXchange Fabric](projects/grid-exchange-fabric)
   * [OperatorFabric](projects/operatorfabric)
   * [PowSyBl](projects/powsysbi)
   * [RIAPS](projects/riaps)
-* Incubating Projects
-  * [CoMPAS](projects/compas)
+  * [SOGNO](projects/sogno)
 * Other LF Energy Logos
   * [LF Energy](other/lf-energy)
   * [Linux Foundation Member](other/lf-member)
