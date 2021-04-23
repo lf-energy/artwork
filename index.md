@@ -95,6 +95,12 @@ permalink: /
 </div>
 </a>
 
+<a href="other/lf-energy-member">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="other/lf-energy-member/horizontal/color/lf-energy-member-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="other/lf-member">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="other/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
