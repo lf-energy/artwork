@@ -91,13 +91,13 @@ permalink: /
 
 <a href="other/lf-energy">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/lf-energy/strategic/color/lf-energy-strategic-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/lf-energy/horizontal/color/lf-energy-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
 <a href="other/lf-energy-member">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/lf-energy-member/horizontal/color/lf-energy-member-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="other/lf-energy-member/strategic/color/lf-energy-member-strategic-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
