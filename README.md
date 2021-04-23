@@ -20,6 +20,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [SOGNO](projects/sogno)
 * Other LF Energy Logos
   * [LF Energy](other/lf-energy)
+  * [LF Energy Member](other/lf-energy-member)
   * [Linux Foundation Member](other/lf-member)
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at [LICENSE.md](LICENSE.md). 
