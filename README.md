@@ -11,6 +11,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
   * [OpenEEMeter](projects/openeemeter)
   * [OpenLEADR](projects/openleadr)
   * [SEAPATH](projects/seapath)
+  * [Shapeshifter](projects/shapeshifter)
 * Early Adoption Projects
   * [EM2](projects/em2)
   * [Grid eXchange Fabric](projects/grid-exchange-fabric)

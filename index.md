@@ -48,6 +48,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/shapeshifter">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/shapeshifter/horizontal/color/shapeshifter-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <h3>Early Adoption Projects</h3>
 
 <a href="projects/em2">
