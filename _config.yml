@@ -7,6 +7,13 @@ primary_logo: other/lf-energy/horizontal/color/lf-energy-horizontal-color.svg
 header_logo: other/lf-energy/horizontal/white/lf-energy-horizontal-white.svg
 github_repo: https://github.com/lf-energy/artwork
 header_image: assets/img/lfe_top_bg.png
+favicon: assets/img/favicon.png
+trademark_text: Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Questions? Please email <a href="mailto:info@lfenergy.org">info@lfenergy.org</a>. 
+logo_categories: 
+  - Incubating Projects
+  - Early Adoption Projects
+  - Graduated Projects
+  - Other Logos
 
 readme_index:
   with_frontmatter: true

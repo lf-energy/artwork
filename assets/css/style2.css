@@ -17,6 +17,7 @@ html {
 }
 
 section {
+  background-size:cover;
 }
 
 .container {
@@ -40,7 +41,7 @@ section {
 
 .imagecontainer {
   width:250px;
-  height:200px;
+  height:150px;
   margin:1%;
   vertical-align:middle;
   text-align: center;
@@ -99,7 +100,7 @@ td img {
   padding:20px;
 }
 
-tbody tr:nth-child(even) {
+tbody tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
@@ -138,7 +139,7 @@ table.logos-table tbody tr td {
   width:100%;
   padding:10%;
   display: block;
-
+  max-height: 150px
 }
 
 em {
@@ -173,7 +174,7 @@ em {
   width:100%;
 }
 
-.logos {
+.logos:not(body.logos) {
   padding-left:10%;
   padding-right:10%;
   padding-top:2%;
@@ -201,7 +202,7 @@ button {
     margin-bottom:5%;
   }
 
-  .logos {
+  .logos:not(body.logos)  {
     padding-left:5%;
     padding-right:5%;
     padding-top:2%;

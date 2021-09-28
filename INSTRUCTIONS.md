@@ -44,68 +44,9 @@
 ```markdown
 ---
 description: Artwork for the <project full name> project
+title: <project full name> 
+level: <project level: match string on home page> 
+featured_image: <relative path to the image to show on the home page> 
+layout: logos
 ---
-
-## <project full name>
-
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
-
-<table class="logos-table">
-	<thead>
-		<tr>
-			<th></th>
-			<th colspan="2">PNG</th>
-			<th colspan="2">SVG</th>
-		</tr>
-		<tr>
-			<th></th>
-			<th>horizontal</th>
-			<th>icon</th>
-			<th>horizontal</th>
-			<th>icon</th>
-		</tr>
-	</thead>	
-    <tbody>
-		<tr>
-			<th>color</th>
-			<td><a href="horizontal/color/<project name>-horizontal-color.png" download><img src="horizontal/color/amundsen-horizontal-color.png" width="200"></a></td>
-			<td><a href="icon/color/<project name>-icon-color.png" download><img src="icon/color/amundsen-icon-color.png" width="75"></a></td>
-			<td><a href="horizontal/color/<project name>-horizontal-color.svg" download><img src="horizontal/color/amundsen-horizontal-color.svg" width="200"></a></td>
-			<td><a href="icon/color/<project name>-icon-color.png" download><img src="icon/color/amundsen-icon-color.png" width="75"></a></td>
-		</tr>
-		<tr>
-			<th>white</th>
-			<td><a href="horizontal/white/<project name>-horizontal-white.png" download><img src="horizontal/white/<project name>-horizontal-white.png" width="200"></a></td>
-			<td><a href="icon/white/<project name>-icon-white.png" download><img src="icon/white/<project name>-icon-white.png" width="75"></a></td>
-			<td><a href="horizontal/white/<project name>-horizontal-white.svg" download><img src="horizontal/white/<project name>-horizontal-white.svg" width="200"></a></td>
-			<td><a href="icon/white/<project name>-icon-white.svg" download><img src="icon/white/<project name>-icon-white.svg" width="75"></a></td>
-		</tr>
-		<tr>
-			<th>black</th>
-			<td><a href="horizontal/black/<project name>-horizontal-black.png" download><img src="horizontal/black/<project name>-horizontal-black.png" width="200"></a></td>
-			<td><a href="icon/black/<project name>-icon-black.png" download><img src="icon/black/<project name>-icon-black.png" width="75"></a></td>
-			<td><a href="horizontal/black/<project name>-horizontal-black.svg" download><img src="horizontal/black/<project name>-horizontal-black.svg" width="200"></a></td>
-			<td><a href="icon/black/<project name>-icon-black.svg" download><img src="icon/black/<project name>-icon-black.svg" width="75"></a></td>
-		</tr>
-	</tbody>	
-</table>
 ```
-
-3. Add project to `README.md` and `index.md` in root.
-
-index.md
-```markdown
-# add under either 'Early Adoption Projects' or 'Incubating Projects' as appropriate in alphabetical order
-
-<a href="projects/<project name>">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/<project name>/horizontal/color/<project name>-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-
-```
-
-README.md
-```markdown
-# add under either 'Early Adoption Projects' or 'Incubating Projects' as appropriate in alphabetical order
-- [<project full name>](projects/<project name>)
