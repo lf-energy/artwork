@@ -30,17 +30,17 @@ layout: default
 		<tr>
 			<th></th>
 {% for image_type in image_types %}
-			<th>{{image_type}}</th>
+			<th>{{image_type | capitalize }}</th>
 {% endfor %}
 {% for image_type in image_types %}
-			<th>{{image_type}}</th>
+			<th>{{image_type | capitalize }}</th>
 {% endfor %}
 		</tr>
 	</thead>	
     <tbody>
         {% for image_color in image_colors %}
         <tr>
-            <th>{{image_color}}</th>
+            <th>{{image_color | capitalize }}</th>
             {% for image_type in image_types %}
             <td><a href="{{image_type}}/{{image_color}}/{{project_slug}}-{{image_type}}-{{image_color}}.png" download><img src="{{image_type}}/{{image_color}}/{{project_slug}}-{{image_type}}-{{image_color}}.png" width="200"></a></td>
             {% endfor %}

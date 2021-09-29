@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Academy Software Foundation (ASWF) Logos
 permalink: /
 ---
 
 <section>
   <div class="logos">
-    <h2>{{ page.title }}</h2>
+    <h2>{{ site.title }}</h2>
     
     <p>{{ site.trademark_text }}</p>
 
