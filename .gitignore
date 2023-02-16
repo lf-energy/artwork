@@ -6,6 +6,7 @@
 # Icon must end with two \r
 Icon
 
+
 # Thumbnails
 ._*
 
@@ -25,9 +26,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-
-!icon/
+Gemfile.lock
