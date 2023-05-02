@@ -7,3 +7,6 @@ layout: logos
 order: 1 
 ---
 
+## Presentation Template
+
+[Presentation Template](lf-energy-template.pptx) 
