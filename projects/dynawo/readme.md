@@ -1,7 +1,7 @@
 ---
 description: Artwork for the Dynawo project
 title: Dynawo
-level: Sandbox Projects
+level: Incubating Projects
 featured_image: horizontal/color/dynawo-horizontal-color.svg
 layout: logos
 ---
