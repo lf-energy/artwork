@@ -2,7 +2,7 @@
 
 `<project full name>` is the display name for the project ( e.g. 'OpenLEADR' )
 
-`<project name>` is the name of the project in the filesystem ( e.g. 'openleadr' )
+`<project name>` is the name of the project in the filesystem ( e.g. 'openleadr' ). This must match the `slug` for the project as defined in LFX PCC, and be all lowercase.
 
 1. Add a new directory under `projects` with the artwork. Artwork directory structure should map as follows...
 
