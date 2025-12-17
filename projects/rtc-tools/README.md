@@ -1,7 +1,7 @@
 ---
 description: Artwork for the RTC-Tools project
 title: RTC-Tools
-level: Sandbox Projects
-featured_image: horizontal/color/rtctools-horizontal-color.svg
+level: Projects
+featured_image: horizontal/color/rtc-tools-horizontal-color.svg
 layout: logos
 ---

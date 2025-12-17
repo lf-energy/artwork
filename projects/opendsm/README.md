@@ -1,7 +1,6 @@
 ---
-description: Artwork for the OpenDSM project
 title: OpenDSM
-level: Incubating Projects
+level: Projects
 featured_image: horizontal/color/opendsm-horizontal-color.svg
 layout: logos
 ---

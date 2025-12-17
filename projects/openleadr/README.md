@@ -1,7 +1,6 @@
 ---
-description: Artwork for the OpenLEADR project
 title: OpenLEADR
-level: Incubating Projects
+level: Projects
 featured_image: horizontal/color/openleadr-horizontal-color.svg 
 layout: logos
 ---

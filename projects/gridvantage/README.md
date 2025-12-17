@@ -1,7 +1,6 @@
 ---
-description: Artwork for the GridVantage project
 title: GridVantage
-level: Sandbox Projects
+level: Projects
 featured_image: horizontal/color/GridVantage-horizontal-color.svg
 layout: logos
 ---
