@@ -1,7 +1,6 @@
 ---
-description: Artwork for the FlexMeasures project
 title: FlexMeasures
-level: Incubating Projects
+level: Projects
 featured_image: horizontal/color/flexmeasures-horizontal-color.svg
 layout: logos
 ---

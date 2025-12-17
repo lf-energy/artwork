@@ -1,7 +1,6 @@
 ---
-description: Artwork for the FledgePOWER project
 title: FledgePOWER
-level: Incubating Projects
+level: Projects
 featured_image: horizontal/color/fledgepower-horizontal-color.svg
 layout: logos
 ---
