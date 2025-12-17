@@ -1,3 +1,4 @@
 [submodule "lfess-artwork"]
 	path = lfess-artwork
 	url = https://github.com/lfess/artwork
+	branch = main
