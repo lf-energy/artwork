@@ -1,6 +1,7 @@
 ---
 title: GridVantage
 level: Projects
-featured_image: horizontal/color/GridVantage-horizontal-color.svg
+featured_image: horizontal/color/gridvantage-horizontal-color.svg
 layout: logos
 ---
+
