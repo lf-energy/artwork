@@ -19,6 +19,10 @@ logo_categories:
 ga_tracking_id: 361402579
 
 exclude:
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
   - lfess-artwork
 
 defaults:
