@@ -1,4 +1,4 @@
-title: LF Energy Foundation Artwork 
+title: LF Energy Foundation Artwork
 description: >-
   Logos and artwork for LF Energy Foundation and it's hosted projects
 
@@ -11,12 +11,41 @@ theme_color_1: 3a56e9
 theme_color_2: 008f65
 favicon: assets/img/favicon.png
 trademark_text: Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Questions? Please email <a href="mailto:info@lfenergy.org">info@lfenergy.org</a>. 
-logo_categories: 
+logo_categories:
   - Projects
   - Working Groups
   - SIGs
   - Other Logos
 ga_tracking_id: 361402579
+
+exclude:
+  - lfess-artwork
+
+defaults:
+  - scope:
+      path: "other"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Other Logos"
+  - scope:
+      path: "projects"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Projects"
+  - scope:
+      path: "sigs"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "SIGs"
+  - scope:
+      path: "working-groups"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Working Groups"
 
 readme_index:
   with_frontmatter: true
