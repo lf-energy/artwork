@@ -6,4 +6,4 @@ With many browsers, you can right click and copy the logo of your choice below. 
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage with the key excepts available at [LICENSE.md](LICENSE.md). 
 
-Questions? Please email [info@lfenergy.org](mailto:info@lfenergy.org).
+Questions? Please email [support@lfenergy.org](mailto:support@lfenergy.org).
