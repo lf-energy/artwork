@@ -1,4 +1,4 @@
 ---
 title: OpenSynth
-featured_image: horizontal/color/opensynth-horizontal-color.svg
+featured_image: primary/color/opensynth-primary-color.svg
 ---

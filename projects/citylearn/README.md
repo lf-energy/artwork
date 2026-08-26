@@ -1,4 +1,4 @@
 ---
-title: citylearn
+title: CityLearn
 featured_image: horizontal/color/citylearn-horizontal-color.svg
 ---

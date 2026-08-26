@@ -1,4 +1,4 @@
 ---
 title: covXtreme
-featured_image: horizontal/color/covxtreme-horizontal-color.svg
+featured_image: primary/color/covxtreme-primary-color.svg
 ---

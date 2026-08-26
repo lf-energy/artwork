@@ -1,4 +1,4 @@
 ---
 title: OpenLEADR
-featured_image: horizontal/color/openleadr-horizontal-color.svg
+featured_image: primary/color/openleadr-primary-color.svg
 ---

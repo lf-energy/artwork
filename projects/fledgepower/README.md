@@ -1,4 +1,4 @@
 ---
-title: FledgePOWER
-featured_image: horizontal/color/fledgepower-horizontal-color.svg
+title: FledgePower
+featured_image: primary/color/fledgepower-primary-color.svg
 ---

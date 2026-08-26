@@ -1,4 +1,4 @@
 ---
 title: OpenSTEF
-featured_image: horizontal/color/openstef-horizontal-color.svg
+featured_image: primary/color/openstef-primary-color.svg
 ---

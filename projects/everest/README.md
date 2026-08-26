@@ -1,4 +1,4 @@
 ---
 title: EVerest
-featured_image: horizontal/color/everest-horizontal-color.svg
+featured_image: primary/color/everest-primary-color.svg
 ---
