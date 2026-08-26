@@ -1,4 +1,4 @@
 ---
 title: SEAPATH
-featured_image: horizontal/color/seapath-horizontal-color.svg
+featured_image: primary/color/seapath-primary-color.svg
 ---

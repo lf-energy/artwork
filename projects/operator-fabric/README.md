@@ -1,4 +1,4 @@
 ---
 title: OperatorFabric
-featured_image: horizontal/color/operator-fabric-horizontal-color.svg
+featured_image: primary/color/operator-fabric-primary-color.svg
 ---

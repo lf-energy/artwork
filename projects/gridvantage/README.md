@@ -1,4 +1,4 @@
 ---
-title: GridVantage
-featured_image: horizontal/color/gridvantage-horizontal-color.svg
+title: Grid Vantage
+featured_image: primary/color/gridvantage-primary-color.svg
 ---

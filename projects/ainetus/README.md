@@ -1,4 +1,4 @@
 ---
 title: AINETUS
-featured_image: horizontal/color/ainetus-horizontal-color.svg
+featured_image: primary/color/ainetus-primary-color.svg
 ---

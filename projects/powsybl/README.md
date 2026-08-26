@@ -1,4 +1,4 @@
 ---
-title: PowSyBl
-featured_image: horizontal/color/powsybl-horizontal-color.svg
+title: PowSyBL
+featured_image: primary/color/powsybl-primary-color.svg
 ---

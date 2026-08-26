@@ -1,4 +1,4 @@
 ---
 title: Dynaωo
-featured_image: horizontal/color/dynawo-horizontal-color.svg
+featured_image: primary/color/dynawo-primary-color.svg
 ---

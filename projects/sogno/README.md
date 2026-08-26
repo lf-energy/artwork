@@ -1,4 +1,4 @@
 ---
 title: SOGNO
-featured_image: horizontal/color/sogno-horizontal-color.svg
+featured_image: primary/color/sogno-primary-color.svg
 ---

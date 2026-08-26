@@ -1,4 +1,4 @@
 ---
-title: Cupid
-featured_image: horizontal/color/cupid-horizontal-color.svg
+title: CUPID (Controllable Unit Protocol Interface for DER)
+featured_image: primary/color/cupid-primary-color.svg
 ---

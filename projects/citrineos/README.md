@@ -1,4 +1,4 @@
 ---
 title: CitrineOS
-featured_image: horizontal/color/citrineos-horizontal-color.svg
+featured_image: primary/color/citrineos-primary-color.svg
 ---

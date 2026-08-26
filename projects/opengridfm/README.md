@@ -1,4 +1,4 @@
 ---
 title: OpenGridFM
-featured_image: horizontal/color/opengridfm-horizontal-color.svg
+featured_image: primary/color/opengridfm-primary-color.svg
 ---

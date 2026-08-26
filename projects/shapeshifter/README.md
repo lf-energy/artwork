@@ -1,4 +1,4 @@
 ---
 title: Shapeshifter
-featured_image: horizontal/color/shapeshifter-horizontal-color.svg
+featured_image: primary/color/shapeshifter-primary-color.svg
 ---

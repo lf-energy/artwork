@@ -1,4 +1,4 @@
 ---
 title: Grid2Op
-featured_image: horizontal/color/grid2op-horizontal-color.svg
+featured_image: primary/color/grid2op-primary-color.svg
 ---

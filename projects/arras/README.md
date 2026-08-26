@@ -1,4 +1,4 @@
 ---
 title: Arras
-featured_image: horizontal/color/arras-horizontal-color.svg
+featured_image: primary/color/arras-primary-color.svg
 ---

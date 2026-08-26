@@ -1,4 +1,4 @@
 ---
-title: FIDOpower
-featured_image: horizontal/color/fidopower-horizontal-color.svg
+title: FIDOPower
+featured_image: primary/color/fidopower-primary-color.svg
 ---

@@ -1,4 +1,4 @@
 ---
 title: OpenDSM
-featured_image: horizontal/color/opendsm-horizontal-color.svg
+featured_image: primary/color/opendsm-primary-color.svg
 ---

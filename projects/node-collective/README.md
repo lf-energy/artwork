@@ -1,4 +1,4 @@
 ---
 title: NODE Collective
-featured_image: horizontal/color/node-collective-horizontal-color.svg
+featured_image: primary/color/node-collective-primary-color.svg
 ---

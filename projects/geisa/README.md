@@ -1,4 +1,4 @@
 ---
-title: GEISA
-featured_image: horizontal/color/geisa-horizontal-color.svg
+title: Grid Edge Interoperability & Security Alliance (GEISA)
+featured_image: primary/color/geisa-primary-color.svg
 ---

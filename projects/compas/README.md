@@ -1,4 +1,4 @@
 ---
 title: CoMPAS
-featured_image: horizontal/color/compas-horizontal-color.svg
+featured_image: primary/color/compas-primary-color.svg
 ---

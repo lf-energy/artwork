@@ -1,4 +1,4 @@
 ---
 title: Real Time Data Ingestion Platform (RTDIP)
-featured_image: horizontal/color/rtdip-horizontal-color.svg
+featured_image: primary/color/rtdip-primary-color.svg
 ---
