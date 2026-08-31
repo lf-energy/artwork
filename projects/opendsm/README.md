@@ -1,4 +1,5 @@
 ---
 title: OpenDSM
 featured_image: primary/color/opendsm-primary-color.svg
+level: Archived
 ---
