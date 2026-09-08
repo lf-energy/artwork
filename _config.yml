@@ -43,7 +43,7 @@ defaults:
       type: "pages"    # usually "pages"
     values:
       layout: "logos"
-      level: "SIGs"
+      level: "Projects"
   - scope:
       path: "working-groups"     # directory (relative to site root)
       type: "pages"    # usually "pages"
