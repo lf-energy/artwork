@@ -1,5 +1,4 @@
 ---
-title: Battery Data Alliance
+project: Battery Data Alliance
 featured_image: primary/color/battery-data-alliance-primary-color.svg
-level: Archived
 ---

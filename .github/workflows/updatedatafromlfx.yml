@@ -14,7 +14,7 @@ jobs:
           updatetacagendaitems: false
           updateclomonitor: false
           updateartwork: true
-          slug: lf-energy
+          slug: lfenergy
         env:
           repository: ${{ github.repository }}
           ref: ${{ github.ref }}

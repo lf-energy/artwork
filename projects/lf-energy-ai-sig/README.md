@@ -1,5 +1,4 @@
 ---
-title: LF Energy AI SIG
-featured_image: horizontal/color/lf-energy-ai-sig-horizontal-color.svg
-level: Archived
+project: AI SIG
+featured_image: primary/color/lf-energy-ai-sig-primary-color.svg
 ---

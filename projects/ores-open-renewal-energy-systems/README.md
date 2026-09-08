@@ -1,5 +1,4 @@
 ---
-title: ORES (Open Renewal Energy Systems)
+project: ORES (Open Renewal Energy Systems)
 featured_image: primary/color/ores-open-renewal-energy-systems-primary-color.svg
-level: Archived
 ---

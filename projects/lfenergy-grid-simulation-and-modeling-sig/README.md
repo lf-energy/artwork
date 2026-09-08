@@ -1,5 +1,4 @@
 ---
-title: LF Energy Grid Simulation and Modeling SIG
-featured_image: horizontal/color/lfenergy-grid-simulation-and-modeling-sig-horizontal-color.svg
-level: Archived
+project: Grid Simulation and Modeling SIG
+featured_image: primary/color/lfenergy-grid-simulation-and-modeling-sig-primary-color.svg
 ---
