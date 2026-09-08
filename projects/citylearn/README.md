@@ -1,5 +1,4 @@
 ---
-title: CityLearn
-featured_image: horizontal/color/citylearn-horizontal-color.svg
-level: Archived
+project: CityLearn
+featured_image: primary/color/citylearn-primary-color.svg
 ---

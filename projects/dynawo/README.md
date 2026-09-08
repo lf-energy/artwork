@@ -1,5 +1,4 @@
 ---
-title: Dynaωo
+project: Dynaωo
 featured_image: primary/color/dynawo-primary-color.svg
-level: Archived
 ---

@@ -1,5 +1,4 @@
 ---
-title: Power Grid Model
+project: Power Grid Model
 featured_image: primary/color/powergridmodel-primary-color.svg
-level: Archived
 ---

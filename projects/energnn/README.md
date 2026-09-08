@@ -1,5 +1,4 @@
 ---
-title: EnerGNN
-featured_image: horizontal/color/energnn-horizontal-color.svg
-level: Archived
+project: ' EnerGNN'
+featured_image: primary/color/energnn-primary-color.svg
 ---

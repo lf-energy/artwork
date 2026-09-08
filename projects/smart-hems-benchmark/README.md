@@ -1,5 +1,4 @@
 ---
-title: Smart HEMS Benchmark
+project: Smart HEMS Benchmark
 featured_image: primary/color/smart-hems-benchmark-primary-color.svg
-level: Archived
 ---
