@@ -1,5 +1,4 @@
 ---
-featured_image: primary/color/operator-fabric-primary-color.svg
 project: OperatorFabric
-title: OperatorFabric
+featured_image: primary/color/operator-fabric-primary-color.svg
 ---

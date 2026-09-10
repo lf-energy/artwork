@@ -1,5 +1,4 @@
 ---
-featured_image: primary/color/seapath-primary-color.svg
 project: SEAPATH
-title: SEAPATH
+featured_image: primary/color/seapath-primary-color.svg
 ---
