@@ -1,5 +1,4 @@
 ---
-featured_image: primary/color/shapeshifter-primary-color.svg
 project: Shapeshifter
-title: Shapeshifter
+featured_image: primary/color/shapeshifter-primary-color.svg
 ---
