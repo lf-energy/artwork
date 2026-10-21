@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
-   xml:space="preserve"
-   viewBox="0 0 112.3 114.2"
-   y="0px"
-   x="0px"
-   id="Layer_1"
    version="1.1"
-   sodipodi:docname="powsysbl-icon-white.svg"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 112.3 114.2"
+   xml:space="preserve"
+   sodipodi:docname="powsysbl-icon-color.svg"
    width="112.3"
    height="114.2"
-   inkscape:export-filename="/Users/johnmertic/Code/lfenergy-artwork/projects/powsysbl/icon/white/powsysbl-icon-white.png"
+   inkscape:export-filename="/Users/johnmertic/Code/lfenergy-artwork/projects/powsysbl/icon/color/powsysbl-icon-color.png"
    inkscape:export-xdpi="377.10001"
    inkscape:export-ydpi="377.10001"
    inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
-   id="namedview3727"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs3662" /><sodipodi:namedview
+   id="namedview3660"
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1.0"
@@ -28,208 +28,110 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="1.5208438"
-   inkscape:cx="249.53253"
-   inkscape:cy="57.205087"
-   inkscape:window-width="1353"
+   inkscape:zoom="1.754102"
+   inkscape:cx="271.36392"
+   inkscape:cy="62.140057"
+   inkscape:window-width="1460"
    inkscape:window-height="480"
    inkscape:window-x="58"
    inkscape:window-y="25"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" /><metadata
-   id="metadata1870"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
-   id="defs1868"><filter
-     id="filter1874"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1872"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter><filter
-     id="filter1878"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1876"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter><filter
-     id="filter1882"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1880"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter><filter
-     id="filter1886"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1884"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter><filter
-     id="filter1890"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1888"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter><filter
-     id="filter1894"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1892"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter><filter
-     id="filter1898"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1896"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter><filter
-     id="filter1902"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1900"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter><filter
-     id="filter1906"
-     style="color-interpolation-filters:sRGB"
-     x="0"
-     y="0"
-     width="1"
-     height="1"><feColorMatrix
-       id="feColorMatrix1904"
-       values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 " /></filter></defs>
+   inkscape:current-layer="Layer_1" />
 <style
-   id="style1781"
-   type="text/css">
-	.st0{fill:#FFB259;}
-	.st1{fill:#6F2277;}
-	.st2{fill:#FD495C;}
-	.st3{fill:#009ADE;}
-	.st4{fill:#003764;}
+   type="text/css"
+   id="style3575">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#A3A3A3;}
+	.st2{fill:#D4D4D4;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#FFFFFF;}
 </style>
 <g
-   style="fill:#ffffff;fill-opacity:1;filter:url(#filter1906)"
-   id="g1825">
+   id="g3619">
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1783"
+   class="st0"
    points="78.6,45.7 56.2,57.1 33.7,45.7 56.2,34.3 "
-   class="st0" />
+   id="polygon3577" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1785"
+   class="st1"
    points="56.2,79.9 33.7,68.5 33.7,45.7 56.2,57.1 "
-   class="st1" />
+   id="polygon3579" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1787"
+   class="st2"
    points="56.2,79.9 56.2,57.1 78.6,45.7 78.6,68.5 "
-   class="st2" />
+   id="polygon3581" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1789"
+   class="st0"
    points="112.3,62.8 89.9,74.2 67.4,62.8 89.9,51.4 "
-   class="st0" />
+   id="polygon3583" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1791"
+   class="st1"
    points="89.9,97.1 67.4,85.6 67.4,62.8 89.9,74.2 "
-   class="st1" />
+   id="polygon3585" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1793"
+   class="st2"
    points="89.9,97.1 89.9,74.2 112.3,62.8 112.3,85.6 "
-   class="st2" />
+   id="polygon3587" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1795"
+   class="st0"
    points="44.9,62.8 22.5,74.2 0,62.8 22.5,51.4 "
-   class="st0" />
+   id="polygon3589" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1797"
+   class="st1"
    points="22.5,97.1 0,85.6 0,62.8 22.5,74.2 "
-   class="st1" />
+   id="polygon3591" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1799"
+   class="st2"
    points="22.5,97.1 22.5,74.2 44.9,62.8 44.9,85.6 "
-   class="st2" />
+   id="polygon3593" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1801"
+   class="st0"
    points="78.6,79.9 56.2,91.3 33.7,79.9 56.2,68.5 "
-   class="st0" />
+   id="polygon3595" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1803"
+   class="st1"
    points="56.2,114.2 33.7,102.8 33.7,79.9 56.2,91.3 "
-   class="st1" />
+   id="polygon3597" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1805"
+   class="st2"
    points="56.2,114.2 56.2,91.3 78.6,79.9 78.6,102.8 "
-   class="st2" />
+   id="polygon3599" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1807"
+   class="st0"
    points="78.6,11.4 56.2,22.8 33.7,11.4 56.2,0 "
-   class="st0" />
+   id="polygon3601" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1809"
+   class="st1"
    points="56.2,45.7 33.7,34.3 33.7,11.4 56.2,22.8 "
-   class="st1" />
+   id="polygon3603" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1811"
+   class="st2"
    points="56.2,45.7 56.2,22.8 78.6,11.4 78.6,34.3 "
-   class="st2" />
+   id="polygon3605" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1813"
+   class="st0"
    points="112.3,28.5 89.9,40 67.4,28.5 89.9,17.1 "
-   class="st0" />
+   id="polygon3607" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1815"
+   class="st1"
    points="89.9,62.8 67.4,51.4 67.4,28.5 89.9,40 "
-   class="st1" />
+   id="polygon3609" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1817"
+   class="st2"
    points="89.9,62.8 89.9,40 112.3,28.5 112.3,51.4 "
-   class="st2" />
+   id="polygon3611" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1819"
+   class="st0"
    points="44.9,28.5 22.5,40 0,28.5 22.5,17.1 "
-   class="st0" />
+   id="polygon3613" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1821"
+   class="st1"
    points="22.5,62.8 0,51.4 0,28.5 22.5,40 "
-   class="st1" />
+   id="polygon3615" />
 	<polygon
-   style="fill:#ffffff;fill-opacity:1"
-   id="polygon1823"
+   class="st2"
    points="22.5,62.8 22.5,40 44.9,28.5 44.9,51.4 "
-   class="st2" />
+   id="polygon3617" />
 </g>
 
 
