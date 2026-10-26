@@ -1,5 +1,4 @@
 ---
-title: varen
-featured_image: horizontal/color/varen-horizontal-color.svg
-level: Archived
+project: VAREN
+featured_image: primary/color/varen-primary-color.svg
 ---
